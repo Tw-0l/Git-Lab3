@@ -1,10 +1,11 @@
-<div  style="background-color: #03989e; padding: 20px;">
+
 
 # Data Science 
 ## What is Data Science?
 **Data Science** *is an interdisciplinary field that extracts insights from various types of data using statistics, computing, and algorithms.*
 
-![Data Science](DS.png){ width=400 height=400 }
+
+<img src="DS.png" alt="Data Science" width=400 height=400/>
 
 ### Data Types:
 - Structured Data
@@ -23,4 +24,3 @@ print("DS Bootcamp")
 [Read More](https://en.wikipedia.org/wiki/Data_science)
 
 
-</div>
